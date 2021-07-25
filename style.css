@@ -17,8 +17,8 @@ section{
 }
 .half-width{
     width: 50%;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 6%;
+    padding-right: 6%;
 }
 
 .hire-me-button{
@@ -35,4 +35,16 @@ section{
 .top-bg{
     background-image: url(images/top-bg.jpg);
     background-repeat: no-repeat;
+}
+
+
+.big-dream-images{
+    width: 80%;
+}
+
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
 }
